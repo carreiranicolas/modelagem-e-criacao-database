@@ -10,7 +10,7 @@ O foco não é a implementação em um ambiente de produção, mas sim a consoli
 
 ## 📚 Conceitos e Técnicas aplicadas
 
-Neste projeto apliquei os seguintes pontos:
+Neste repositório, em cada modelagem apliquei os seguintes pontos:
 + ...;
 + ...;
 + ...;
@@ -24,12 +24,12 @@ Neste projeto apliquei os seguintes pontos:
 - **Fale comigo:** As diferentes formas de entrar em contato comigo;
 - **Redes:** Links para minhas redes sociais, disponíveis no menu de navegação e no rodapé do site.
 
-## ⚙ Estrutura do projeto
+## ⚙ Estrutura do repositório
 
 - /modelagem-contexto/ - Será a pasta de uma modelagem que eu fizer. No lugar de "contexto", colocarei "hospital", por exemplo, para destacar sobre o que é a modelagem.
-- /sql/ - Pasta que ficará dentro da pasta /modelagem-contexto/. Conterá os scripts SQL para criar e popular o banco de dados.
-- /docs/ - Pasta que também ficará dentro da pasta /modelagem-contexto/. Terá nela a Documentação adicional, como diagramas ER e anotações.
-- README.md - Este arquivo, que explica o projeto.
+- /sql/ - Pasta que ficará dentro de /modelagem-contexto/. Conterá os scripts SQL para criar e popular o banco de dados.
+- /docs/ - Pasta que também ficará dentro de /modelagem-contexto/. Terá nela a Documentação adicional, como diagramas ER e anotações.
+- README.md - Este arquivo, que explica o repositório.
 
 ## 📜 Instruções para executar
 
