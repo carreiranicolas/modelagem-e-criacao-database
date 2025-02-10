@@ -26,8 +26,9 @@ Neste projeto apliquei os seguintes pontos:
 
 ## ⚙ Estrutura do projeto
 
-- /sql/ - Scripts SQL para criar e popular o banco de dados.
-- /docs/ - Documentação adicional, como diagramas ER e anotações.
+- /modelagem-contexto/ - Será a pasta de uma modelagem que eu fizer. No lugar de "contexto", colocarei "hospital", por exemplo, para destacar sobre o que é a modelagem.
+- /sql/ - Pasta que ficará dentro da pasta /modelagem-contexto/. Conterá os scripts SQL para criar e popular o banco de dados.
+- /docs/ - Pasta que também ficará dentro da pasta /modelagem-contexto/. Terá nela a Documentação adicional, como diagramas ER e anotações.
 - README.md - Este arquivo, que explica o projeto.
 
 ## 📜 Instruções para executar
