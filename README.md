@@ -20,9 +20,6 @@ Neste repositório, em cada modelagem apliquei os seguintes pontos:
 - **Google Docs:** Uma breve introdução;
 - **brModeloweb:** Falo um pouco sobre quem sou, meus hobbies, minha trajetória, minhas experiências e minhas ambições;
 - **SGBD:** As tecnologias que tenho conhecimento;
-- **Projetos:** Exemplos de projetos recentes que desenvolvi;
-- **Fale comigo:** As diferentes formas de entrar em contato comigo;
-- **Redes:** Links para minhas redes sociais, disponíveis no menu de navegação e no rodapé do site.
 
 ## ⚙ Estrutura do repositório
 
